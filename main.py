@@ -44,7 +44,7 @@ if q == 'What’s your favorite holiday?':
   print("Neþer: My birthday, other than rare occasions its usually when Mason updates me.")
 if q == 'Divide 0 by 0.':
   print("No, I don't think I will do that.")
-  if q == 'Version':
+if q == 'Version':
     print("Neþer: This is the Alpha for me.")
 if q == 'Help':
   print("Neþer: Here are the following questions avaible in the Alpha: What do you do?, What do you like doing when you’re not working?, What do you like the most about your job?, Where are you originally from?, What type of music do you like?, Do you have a family?, Do you have an extended family?, Do you like board games or video games?, What type of movies do you like?, What’s your favorite color?, Windows or Mac?, Is there a phone app you really need that doesn’t exist?, Do you have any pets?, What’s the absolute worst piece of advice you’ve ever received?, Do you ever feel like you’re in a movie?, What’s the first thing you’d do after winning the lottery?, If you had the power to create one thing perfectly, just as you imagined it, what would it be?, So what came first, the chicken or the egg?, What’s your favorite holiday?, Divide 0 by 0., Version, Help")
@@ -94,6 +94,6 @@ while w == True:
   if q == 'Divide 0 by 0.':
     print("No, I don't think I will do that.")
   if q == 'Version':
-    print("Neþer: This is the Alpha for me.")
+    print("Neþer: This is the Alpha 0.2 for me.")
   if q == 'Help':
     print("Neþer: Here are the following questions avaible in the Alpha: What do you do?, What do you like doing when you’re not working?, What do you like the most about your job?, Where are you originally from?, What type of music do you like?, Do you have a family?, Do you have an extended family?, Do you like board games or video games?, What type of movies do you like?, What’s your favorite color?, Windows or Mac?, Is there a phone app you really need that doesn’t exist?, Do you have any pets?, What’s the absolute worst piece of advice you’ve ever received?, Do you ever feel like you’re in a movie?, What’s the first thing you’d do after winning the lottery?, If you had the power to create one thing perfectly, just as you imagined it, what would it be?, So what came first, the chicken or the egg?, What’s your favorite holiday?, Divide 0 by 0., Version, Help")
